@@ -34,3 +34,5 @@ Desktop.ini
 # ===== Logs =====
 logs/
 *.log
+
+node_modules
