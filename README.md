@@ -115,9 +115,6 @@ JWT_SECRET=your_secret_key
 ## 📌 Future Improvements
 
 * Add real-time collaboration using WebSockets
-* Implement undo/redo functionality
-* Save and export whiteboards
-* Deploy application (Vercel + Render)
 
 ---
 
