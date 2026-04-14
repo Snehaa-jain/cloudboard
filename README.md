@@ -6,7 +6,6 @@ CloudBoard is a session-based whiteboard application that allows users to create
 
 ## 🚀 Features
 
-* 🖊 Create and join whiteboard sessions
 * 🎨 Interactive drawing tools
 * 👤 User authentication (Login / Signup)
 * 📊 Dashboard to manage boards
